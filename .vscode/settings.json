@@ -1,0 +1,8 @@
+{
+  "editor.tabSize": 2,
+  "sassFormat.indent": 2,
+  "trailing-spaces.trimOnSave": true,
+  "window.zoomLevel": 0,
+  "editor.formatOnSave": true,
+  "sassFormat.useSingleQuotes": true
+}
