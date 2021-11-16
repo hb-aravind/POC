@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "async": "^2.5.0",
-    "aws-sdk": "2.542.0",
+    "aws-sdk": "2.814.0",
     "bcrypt": "3.0.7",
     "body-parser": "^1.18.1",
     "boom": "7.2.0",
